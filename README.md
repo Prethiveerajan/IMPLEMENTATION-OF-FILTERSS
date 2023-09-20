@@ -165,6 +165,7 @@ iii) Using Gaussian Filter
 
 
 iv) Using Median Filter
+
 ![output](median.png)
 
 

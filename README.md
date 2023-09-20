@@ -152,12 +152,15 @@ cv2.destroyAllWindows()
 
 
 i) Using Averaging Filter
+
 ![o](o2.png)
 
 ii) Using Weighted Averaging Filter
+
 ![output](weight.png)
 
 iii) Using Gaussian Filter
+
 ![output](gaussian.png)
 
 
@@ -169,10 +172,12 @@ iv) Using Median Filter
 
 
 i) Using Laplacian Kernal
+
 ![output](lapcian.png)
 
 
 ii) Using Laplacian Operator
+
 ![output](lap2.png)
 
 
